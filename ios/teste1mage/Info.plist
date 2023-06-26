@@ -51,5 +51,7 @@
 	<false/>
   <key>UIStatusBarStyle</key>
   <string>UIStatusBarStyleDefault</string>
+<key>NSPhotoLibraryUsageDescription</key>
+<string>Esta aplicação precisa acessar sua biblioteca de fotos para permitir que você selecione e envie imagens.</string>
 </dict>
 </plist>
