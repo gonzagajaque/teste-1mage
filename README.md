@@ -6,17 +6,7 @@
 <body>
   <h1>Teste Prático - 1Mage</h1>
   <p>Este repositório contém a solução para o teste prático da vaga de Frontend na empresa 1Mage.</p>
-  <h2>Requisitos</h2>
-  <ul>
-    <li>O aplicativo foi desenvolvido utilizando o Expo.</li>
-    <li>A estilização foi feita utilizando o NativeBase ou Styled-Components.</li>
-    <li>Nas telas de Login e Sign In, foi utilizado o RealmDB para criar um banco de dados interno, salvar os dados do usuário e realizar a autenticação.</li>
-    <li>O processo de autenticação foi realizado por meio da Context API e criação de um Hook personalizado.</li>
-    <li>Após a autenticação, o usuário é redirecionado para a tela Home. As ações de cada componente foram observadas e reproduzidas utilizando boas práticas para exibição de listas.</li>
-    <li>A navegação do aplicativo foi implementada utilizando o React Navigation.</li>
-    <li>Na tela de Profile, é possível trocar a foto do usuário. Ao clicar no ícone da câmera, o usuário tem a opção de escolher uma foto da galeria ou abrir a câmera do aparelho (se necessário, foi criado um componente seguindo o design disponibilizado).</li>
-    <li>Foi desenvolvida uma página extra, demonstrando criatividade e habilidades de conexão com APIs REST. Nesta tela, há uma listagem de filmes utilizando a API pública do The Movie Database (TMDB).</li>
-  </ul>
+  
   <h2>Instruções</h2>
   <ol>
     <li>🔧 Certifique-se de ter o Expo instalado em seu ambiente de desenvolvimento.</li>
